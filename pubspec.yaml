@@ -17,4 +17,5 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^2.0.0
   app_configuration_service:
-    git: https://github.com/niypoo/app_configuration_service.git
+    git: 
+      url: git@github.com:niypoo/app_configuration_service.git
